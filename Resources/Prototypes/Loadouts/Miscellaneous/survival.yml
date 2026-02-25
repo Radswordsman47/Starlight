@@ -24,6 +24,7 @@
     - Resomi #🌟Starlight🌟
     - Avali #🌟Starlight🌟
     - Thaven # Starlight
+    - Tajaran #Goobstation
     - Lagomorph # Starlight
 
 - type: loadoutEffectGroup
@@ -83,6 +84,7 @@
     - Human
     - Reptilian
     - Vulpkanin
+    - Tajaran
 
 - type: loadoutEffectGroup
   id: OxygenBreatherMimeMoth

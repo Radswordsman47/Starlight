@@ -1,0 +1,12 @@
+
+- type: font
+  id: Sriracha
+  path: /Fonts/_SectorDawn/Sriracha-Regular.ttf
+
+- type: font
+  id: RubikDirt
+  path: /Fonts/_SectorDawn/RubikDirt-Regular.ttf
+
+#- type: font
+#  id: Quintessential
+#  path: /Fonts/_SectorDawn/Quintessential-Regular.ttf

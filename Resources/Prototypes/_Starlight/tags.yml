@@ -213,6 +213,10 @@
   id: Felionoid
 
 - type: Tag
+  id: FelinidEmotes
+  
+
+- type: Tag
   id: FreeMag
 
 - type: Tag
@@ -563,6 +567,9 @@
 
 - type: Tag
   id: Table
+
+- type: Tag
+  id: Tajaran
 
 - type: Tag
   id: TheDark
