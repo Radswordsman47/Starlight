@@ -3,6 +3,7 @@
 # To quote: "The traditionally employed tongue of Adhomai, comprised of expressive yowls and chirps. Native to the Tajara"
 - type: language
   id: SiikMaas
+  icon: LanguageIconTajaranSiikmaas
   isVisibleLanguage: true
   speech:
     color: "#d6a36eee" # Goob Edit - Make more unique from Vulpkanin
@@ -79,6 +80,7 @@
 # (if they cut off your tail or ears you shouldn't be able to speak it, but well)
 - type: language
   id: NalRasan
+#  icon: LanguageIconTajaranNalrasan
   speech:
     allowRadio: false
     requireSpeech: false
@@ -115,10 +117,11 @@
 # To quote: "Language native to the Tajara, it employs both verbal and non-verbal elements"
 - type: language
   id: SiikTajr
+  icon: LanguageIconTajaranSiiktajr
   isVisibleLanguage: true
   speech:
     color: "#f58c9aee" # Bright red, to push this energy through
-    fontId: Sriracha # relatively energetic, portraying the body movement I suppose
+#    fontId: Sriracha # relatively energetic, portraying the body movement I suppose
     allowRadio: true # It's actually ok, since message wrap overrides are broken for radio, yipee?
     requireSpeech: false
     messageWrapOverrides:
@@ -209,6 +212,7 @@
 # To quote: "The traditional language of the tajaran nobility"
 - type: language
   id: YaSsa
+#  icon: LanguageIconTajaranYassa
   isVisibleLanguage: true
   speech:
     color: "#9a69f5ee" # More or less the color of nobility
@@ -288,10 +292,11 @@
 # ceremonies dedicated to the Snow God and amongst settlements comprised mostly of Zhan-Khazan"
 - type: language
   id: Delvahii
+  icon: LanguageIconTajaranDelvahii
   isVisibleLanguage: true
   speech:
     color: "#b1c472ee" # Green, color of grass, of change, and of spring
-    fontId: RubikDirt # Aptly named
+#    fontId: RubikDirt # Aptly named
   obfuscation:
     !type:SyllableObfuscation
     minSyllables: 2

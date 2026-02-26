@@ -1,0 +1,20 @@
+{
+    "version": 1,
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Made by ._icarus_ark_. (NotSpooky)",
+    "size": {
+        "x": 16,
+        "y": 16
+    },
+    "states": [
+        {
+            "name": "Delvahii"
+        },
+        {
+            "name": "Siikmaas"
+        },
+        {
+            "name": "Siiktajr"
+        }
+    ]
+}

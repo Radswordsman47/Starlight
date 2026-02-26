@@ -62,3 +62,6 @@ trait-language-aielic-desc = The beautiful language of the queli is ideally suit
 
 trait-language-lagomorphian-name = Lagomorphian
 trait-language-lagomorphian-desc = The lynarxical tongue, developed as an integration language for the Lagomorph's differing vocal structure.
+
+trait-language-siikmaas-name = Siik'Maas
+trait-language-siikmaas-desc = The ancient language of the Tajarans, the traditionally employed tongue of Adhomai, comprised of expressive yowls and chirps.

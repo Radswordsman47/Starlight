@@ -39,6 +39,11 @@
       - Classical
       - Darktongue
       - Lagomorphian
+      - SiikMaas
+      - NalRasan
+      - SiikTajr
+      - Delvahii
+      - YaSsa
       understands:
       - GalacticCommon
       - Scratch
@@ -60,6 +65,11 @@
       - Classical
       - Darktongue
       - Lagomorphian
+      - SiikMaas
+      - NalRasan
+      - SiikTajr
+      - Delvahii
+      - YaSsa
   # Starlight end
 
 - type: startingGear

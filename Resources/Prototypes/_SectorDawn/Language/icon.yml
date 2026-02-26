@@ -1,0 +1,23 @@
+- type: jobIcon
+  parent: JobIcon
+  id: LanguageIconTajaranSiikmaas
+  icon:
+    sprite: /Textures/_SectorDawn/Interface/language_icon.rsi
+    state: Siikmaas
+  allowSelection: false
+
+- type: jobIcon
+  parent: JobIcon
+  id: LanguageIconTajaranSiiktajr
+  icon:
+    sprite: /Textures/_SectorDawn/Interface/language_icon.rsi
+    state: Siiktajr
+  allowSelection: false
+
+- type: jobIcon
+  parent: JobIcon
+  id: LanguageIconTajaranDelvahii
+  icon:
+    sprite: /Textures/_SectorDawn/Interface/language_icon.rsi
+    state: Delvahii
+  allowSelection: false

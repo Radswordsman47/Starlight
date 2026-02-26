@@ -460,3 +460,25 @@
       traits:
         - Iterator
       inverted: true
+
+- type: trait
+  id: SiikMaas
+  name: trait-language-siikmaas-name
+  description: trait-language-siikmaas-desc
+  category: LanguageTraits
+  cost: 2
+  effects:
+    - !type:LanguageEffect
+      languagesSpoken:
+        - SiikMaas
+      languagesUnderstood:
+        - SiikMaas
+  requirements:
+    - !type:SpeciesRequirement
+      species:
+        - Tajaran
+      inverted: true
+    - !type:TraitsRequirement
+      traits:
+        - Iterator
+      inverted: true
