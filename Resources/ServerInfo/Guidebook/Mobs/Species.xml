@@ -26,6 +26,8 @@
   <GuideEntityEmbed Entity="MobAvali" Caption="Avali"/>
   <GuideEntityEmbed Entity="MobShadekin" Caption="Shadekin"/>
   <GuideEntityEmbed Entity="MobTajaran" Caption="Tajaran"/>
+  </Box>
+  <Box>
   <GuideEntityEmbed Entity="MobLagomorph" Caption="Lagomorph"/>
   </Box>
 

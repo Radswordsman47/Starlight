@@ -1,15 +1,3 @@
-# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2025 BloodfiendishOperator <141253729+Diggy0@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2025 GoobBot <uristmchands@proton.me>
-# SPDX-FileCopyrightText: 2025 Piras314 <p1r4s@proton.me>
-# SPDX-FileCopyrightText: 2025 SX-7 <92227810+SX-7@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2025 SX-7 <sn1.test.preria.2002@gmail.com>
-# SPDX-FileCopyrightText: 2025 SX_7 <sn1.test.preria.2002@gmail.com>
-# SPDX-FileCopyrightText: 2025 coderabbitai[bot] <136622811+coderabbitai[bot]@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2025 gluesniffler <159397573+gluesniffler@users.noreply.github.com>
-#
-# SPDX-License-Identifier: AGPL-3.0-or-later
-
 - type: species
   id: Tajaran
   name: species-name-tajaran
@@ -51,42 +39,6 @@
       points: 1
       required: true
       defaultMarkings: [ TajaranEarsBasic ]
-#    HeadSide:
-#      points: 8
-#      required: false
-#    Chest:
-#      points: 10
-#      required: false
-#    Underwear:
-#      points: 1
-#      required: false
-#    Undershirt:
-#      points: 1
-#      required: false
-#    RightLeg:
-#      points: 8 # Omu Edit - "Uncapped Customizations"
-#      required: false
-#    RightFoot:
-#      points: 8 # Omu Edit - "Uncapped Customizations"
-#      required: false
-#    LeftLeg:
-#      points: 8 # Omu Edit - "Uncapped Customizations"
-#     required: false
-#   LeftFoot:
-#      points: 8 # Omu Edit - "Uncapped Customizations"
-#      required: false
-#    RightArm:
-#      points: 8 # Omu Edit - "Uncapped Customizations"
-#      required: false
-#   RightHand:
-#      points: 8 # Omu Edit - "Uncapped Customizations"
-#      required: false
-#    LeftArm:
-#      points: 8 # Omu Edit - "Uncapped Customizations"
-#      required: false
-#   LeftHand:
-#      points: 8 # Omu Edit - "Uncapped Customizations"
-#      required: false
     UndergarmentTop:
       points: 1
       required: false
@@ -109,10 +61,6 @@
     Hair: MobHumanoidAnyMarking
     FacialHair: MobHumanoidAnyMarking
     Snout: MobHumanoidAnyMarking
-    #omu start
-#    Undershirt: MobHumanoidAnyMarking
-#    Underwear: MobHumanoidAnyMarking
-    #omu end
     Chest: MobTajaranChest
     Eyes: MobTajaranEyes
     LArm: MobTajaranLArm
