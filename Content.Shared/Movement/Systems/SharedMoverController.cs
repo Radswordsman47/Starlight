@@ -587,8 +587,22 @@ public abstract partial class SharedMoverController : VirtualController
 
         if (FootstepModifierQuery.TryComp(uid, out var moverModifier))
         {
-            sound = moverModifier.FootstepSoundCollection;
-            return sound != null;
+            //Starlight begin - check slotflags
+            var slots = _inventory.GetSlotEnumerator(uid, moverModifier.DisableSlots);
+            var foundItem = false;
+            while (slots.MoveNext(out var slot))
+            {
+                if (slot.ContainedEntity == null || slot.ContainedEntity == EntityUid.Invalid) continue;
+                foundItem = true;
+                break;
+            }
+
+            if (!foundItem)
+            {
+                sound = moverModifier.FootstepSoundCollection;
+                return sound != null;
+            }
+            //Starlight end
         }
 
         // STARLIGHT: Check cyberlegs before outer clothing
